@@ -9,5 +9,6 @@ package com.atguigu.springcloud;
 public class Main {
     public static void main(String[] args) {
         System.out.println("你好哈哈哈哈");
+        System.out.println("吃吃吃");
     }
 }
